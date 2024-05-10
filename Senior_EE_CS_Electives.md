@@ -1,0 +1,31 @@
+### Senior EE/CS Electives – Complete 1 of:
+    - Software engineering Tools and Practices – CS 3560
+    - ~~Introduction to Distributed, Parallel, and Web-Centric Computing – CS4000~~
+    - Design and Analysis of Algorithms – CS 4040
+    - Computation Theory – CS 4060
+    - Introduction to Formal Languages and Compilers – CS 4100
+    - Problem Solving with Bioinformatics Tools – CS 4160
+    - Data mining with Applications in the Life Sciences – CS 4170
+    - Interactive Computer Graphics – CS 4250
+    - Operating Systems – CS 4420
+    - Advanced Object-Oriented Design and GUI Techniques – CS 4500
+    - Operating Systems II – CS 4580
+    - Database Systems – CS 4620
+    - Internet Engineering – CS 4750 – Probably easy
+    - Artificial Intelligence – CS 4800
+    - [Computer Organization – EE 3613](https://catalogs.ohio.edu/preview_course_nopop.php?catoid=82&coid=441161)
+    - Introduction to Computer Networks – EE 3753 – Probably easy
+    - Physical and Power Electronics – EE 4053
+    - Design of Digital Circuits – EE 4143 – VHDL etc.
+    - Micro and Nano Fabrication – EE 4183
+      - Semiconductor fabrication
+      - MEMS
+      - Needs Chem 1510
+    - Feedback Control Theory – EE 4213
+    - Optoelectronics and Photonics – EE 4313
+    - Antenna and Microwave Theory – EE 4403
+    - Introduction to Power System Engineering and Analysis – EE 4523
+    - Embedded Systems – EE 4673
+    - Computer Architecture – EE 4683
+    - Electronic Navigation Systems – EE 4853
+    - Programmable Logic Controllers – EE 4913
